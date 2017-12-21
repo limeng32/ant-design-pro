@@ -110,7 +110,7 @@ export const getNavData = app => [
         ],
       },
       {
-        name: '详情页',
+        name: '详情页1',
         path: 'profile',
         icon: 'profile',
         children: [
