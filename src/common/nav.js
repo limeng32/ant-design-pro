@@ -18,7 +18,7 @@ export const getNavData = app => [
       {
         name: '流程',
         path: 'flow',
-        icon: 'form',
+        icon: 'profile',
         children: [
           {
             name: '我的流程',
@@ -103,7 +103,7 @@ export const getNavData = app => [
     component: dynamicWrapper(app, [], () => import('../layouts/BlankLayout')),
     layout: 'BlankLayout',
     children: {
-      name: '使用文档2',
+      name: '使用文档',
       path: 'http://myactiviti.limeng32.com',
       target: '_blank',
       icon: 'book',

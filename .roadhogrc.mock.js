@@ -23,7 +23,7 @@ const proxy = {
       },
     },
     $body: {
-      name: 'Serati Ma',
+      name: 'wfadmin',
       avatar: 'https://gw.alipayobjects.com/zos/rmsportal/BiazfanxmamNRoxxVxka.png',
       userid: '00000001',
       notifyCount: 12,
@@ -34,7 +34,7 @@ const proxy = {
     key: '1',
     name: 'John Brown',
     age: 32,
-    address: 'New York No. 1 Lake Park',
+    address: 'New York No. 2 Lake Park',
   }, {
     key: '2',
     name: 'Jim Green',

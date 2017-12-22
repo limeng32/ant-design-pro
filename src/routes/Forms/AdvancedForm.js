@@ -28,7 +28,7 @@ const tableData = [{
   key: '1',
   workId: '00001',
   name: 'John Brown',
-  department: 'New York No. 1 Lake Park',
+  department: 'New York No. 2 Lake Park',
 }, {
   key: '2',
   workId: '00002',
