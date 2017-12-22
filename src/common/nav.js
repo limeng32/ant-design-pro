@@ -104,7 +104,7 @@ export const getNavData = app => [
     layout: 'BlankLayout',
     children: {
       name: '使用文档',
-      path: 'http://pro.ant.design/docs/getting-started',
+      path: 'http://myactiviti.limeng32.com',
       target: '_blank',
       icon: 'book',
     },
