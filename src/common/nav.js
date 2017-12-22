@@ -103,7 +103,7 @@ export const getNavData = app => [
     component: dynamicWrapper(app, [], () => import('../layouts/BlankLayout')),
     layout: 'BlankLayout',
     children: {
-      name: '使用文档',
+      name: '使用文档1',
       path: 'http://myactiviti.limeng32.com',
       target: '_blank',
       icon: 'book',
